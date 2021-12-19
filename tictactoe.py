@@ -38,7 +38,7 @@ def playerMove():
                     run = False
                     insertLetter('X' , move)
                 else:
-                    print('Sorry, this space is occupied.Choose a different space')
+                    print('Sorry, this space is occupied. Choose a different space')
             else:
                 print('Please type a number only between 1 and 9!')
 
